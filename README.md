@@ -9,7 +9,7 @@ Power BI dashboard for retail MIS reporting (Indian stores).
 ### 📊 Live Demos
 
 - [Executive Summary](https://app.powerbi.com/reportEmbed?reportId=b86d5e34-70ba-48bb-b261-18f30d74f6e5&autoAuth=true&ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71)
-- [Operations Dashboard]((https://app.powerbi.com/reportEmbed?reportId=b86d5e34-70ba-48bb-b261-18f30d74f6e5&autoAuth=true&ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71))
+- [Operations Dashboard](https://app.powerbi.com/reportEmbed?reportId=b86d5e34-70ba-48bb-b261-18f30d74f6e5&autoAuth=true&ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71)
 
 ### 🖼️ Screenshots
 
