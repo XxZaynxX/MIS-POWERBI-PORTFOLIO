@@ -1,33 +1,65 @@
-# MIS Executive - Power BI Portfolio
+# MIS Power BI Dashboard – Retail Sales & Inventory
 
-## Virar Retail Chain MIS Dashboard
+## 📌 Project Overview
+This project is a Power BI–based MIS dashboard designed to help retail business owners and MIS executives monitor **sales performance, inventory levels, and GST-related metrics** in a simple and visual manner.
 
-**Tracking ₹27K monthly sales across 5 Mumbai stores + GST compliance + low stock alerts**
+The dashboard focuses on converting raw sales and stock data into **actionable insights** that support daily and monthly decision-making.
 
-Power BI dashboard for retail MIS reporting (Indian stores).
+---
 
-### 📊 Live Demos
+## 🎯 Problem Statement
+Retail businesses often struggle to:
+- Track daily and monthly sales performance
+- Monitor low stock items in real time
+- Maintain visibility over GST-related figures
+- Analyze store-wise and product-wise performance
 
-- [Executive Summary](https://app.powerbi.com/reportEmbed?reportId=b86d5e34-70ba-48bb-b261-18f30d74f6e5&autoAuth=true&ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71)
-- [Operations Dashboard](https://app.powerbi.com/reportEmbed?reportId=b86d5e34-70ba-48bb-b261-18f30d74f6e5&autoAuth=true&ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71)
+This dashboard addresses these challenges by presenting key metrics in a single interactive report.
 
-### 🖼️ Screenshots
+---
 
-**Executive Summary Dashboard**  
-![Executive Summary](WhatsApp%20Image%202026-01-17%20at%2011.13.34%20AM.jpeg)
+## 🛠 Tools & Technologies Used
+- **Power BI**
+  - Power Query (data cleaning & transformation)
+  - Data modeling & relationships
+  - DAX (basic measures)
+- **Excel** (source data)
 
-**Detailed / Operations View**  
-![Operations Dashboard](WhatsApp%20Image%202026-01-17%20at%2011.14.14%20AM.jpeg)
+---
 
-### 💼 Skills Shown
-- Power BI (DAX, relationships, maps)
-- Sales trends, inventory, targets vs actuals
-- GST tracking
-- Low stock alerts
+## 📊 Key Features
+- Total Sales and Monthly Sales Trend
+- Store-wise and Product-wise Sales Analysis
+- Inventory Status with Low Stock Indicators
+- GST Overview for compliance tracking
+- Interactive filters and slicers for easy analysis
 
-### 🎯 Target Jobs
-- MIS Executive
-- Data Analyst (Fresher)
-- Management Information Systems Analyst
+---
 
-Feel free to download the .pbix file or message me for the full interactive version!
+## 📈 Key Insights Generated
+- Identifies top-performing and underperforming stores
+- Highlights products that require immediate restocking
+- Helps management track sales trends over time
+- Improves visibility of GST-related figures for reporting
+
+---
+
+## 👥 Intended Users
+- MIS Executives
+- Retail Managers
+- Accounts & Finance Teams
+
+---
+
+## 📷 Dashboard Preview
+(Add screenshots of your Power BI dashboard here)
+
+---
+
+## 🔗 Live Report / Project Link
+(Add Power BI Service link here if available)
+
+---
+
+## 📌 Notes
+This project was created as a **self-learning and portfolio project** to demonstrate practical Power BI and MIS reporting skills relevant to entry-level MIS Executive roles.
